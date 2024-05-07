@@ -198,7 +198,7 @@ cursor: pointer;
    
 }
 @media(width < 991px){
-    .sec-image,.first-image,.third-image,.forth-image{
+  .sec-image,.first-image,.third-image,.forth-image,.Fifth-image,.sixth-image{
         width: 100%;
     
     }
