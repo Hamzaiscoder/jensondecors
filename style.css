@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 .back-image{
-    background-image:linear-gradient(to right, rgba(255, 1, 1, 0.201), rgba(255, 0, 0, 0.201)), url("./GJ_AW23_BLOOMBOTANICA_10020271-1600x6001600.avif");
+    background-image:linear-gradient(to right, rgba(255, 1, 1, 0.201), rgba(255, 0, 0, 0.201)), url("./img/GJ_AW23_BLOOMBOTANICA_10020271-1600x6001600.avif");
     
 background-position: center;
 background-size: cover;
@@ -30,7 +30,7 @@ nav{
     width: 80%;
 }
 .hero-photo{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./photo2.webp");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img/photo2.webp");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -53,7 +53,7 @@ nav{
 
 
 .first-image{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./photo4.webp");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img/photo4.webp");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -66,7 +66,7 @@ flex-direction: column;
 justify-content: flex-end;
 }
 .sec-image{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./photo6.webp");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img/photo6.webp");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -78,7 +78,7 @@ justify-content: flex-end;
  justify-content: flex-end;
 }
 .third-image{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./Prints7.webp");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img/Prints7.webp");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -91,7 +91,7 @@ flex-direction: column;
 justify-content: flex-end;
 }
 .forth-image{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./photo7.webp");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img/photo7.webp");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -103,7 +103,7 @@ justify-content: flex-end;
  justify-content: flex-end;
 }
 .Fifth-image{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./mirro10.webp");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img/mirro10.webp");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -116,7 +116,7 @@ flex-direction: column;
 justify-content: flex-end;
 }
 .sixth-image{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./mirr12.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img/mirr12.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -198,7 +198,7 @@ cursor: pointer;
    
 }
 @media(width < 991px){
-  .sec-image,.first-image,.third-image,.forth-image,.Fifth-image,.sixth-image{
+    .sec-image,.first-image,.third-image,.forth-image{
         width: 100%;
     
     }
